@@ -1,0 +1,16 @@
+android-emulator
+android-sdk
+android-sdk-build-tools
+android-sdk-platform-tools
+balena-etcher
+dotnet-host-10.0-bin
+javafx-scenebuilder
+libjpeg6-turbo
+libpng12
+neofetch
+nomacs
+pgadmin4-server-bin
+postman-bin
+qt5-websockets
+ventoy-bin
+visual-studio-code-bin
