@@ -20,7 +20,7 @@
 
 ## 📖 Descrição <a name="descricao"></a>
 
-Este repositório organiza projetos de estudo/desenvolvimento e a documentação do ambiente Linux utilizado, com foco em **Arch Linux**.
+Este repositório organiza projetos de estudo/desenvolvimento e a documentação do ambiente Linux utilizado, com foco em **Arch Linux** e **EndeavourOS**.
 
 A ideia é manter, de forma clara e reproduzível:
 
